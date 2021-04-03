@@ -3,9 +3,7 @@
 [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://github.com/mauraqoonitah)
 <a href="#tada-php-support" title="PHP Versions Supported"><img alt="PHP Versions Supported" src="https://img.shields.io/badge/php-5.3%20to%208.1-777bb3.svg?logo=php&logoColor=white&labelColor=555555"></a>
 
-Mengimplementasikan User Interface pada Aplikasi Web Kalkulator Sederhana.
-
-(Pelatihan Online Bidang TIK Berbasis SKKNI Tahun 2021 Gelombang Ke-4 Pengembang Web Pratama (Junior Web Developer))
+Perhitungan dua buah bilangan dengan kalkulator sederhana.
 
 ## Folder Structure
 
@@ -14,6 +12,8 @@ Mengimplementasikan User Interface pada Aplikasi Web Kalkulator Sederhana.
     │   ├── style.css                         # css file
     │   ├── index.php                         # main php file
     │   └── README.md                         # readme
+    │   └── Screenshot_1.png                  # screenshot image
+    │   └── Screenshot_2.png                  # screenshot image
 
 ## Getting Started
 
