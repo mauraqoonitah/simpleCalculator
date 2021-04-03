@@ -11,9 +11,9 @@ Perhitungan dua buah bilangan dengan kalkulator sederhana.
     ├── Tugas6_Maura-Qoonitah-Putri           # folder
     │   ├── style.css                         # css file
     │   ├── index.php                         # main php file
-    │   └── README.md                         # readme
-    │   └── Screenshot_1.png                  # screenshot image
-    │   └── Screenshot_2.png                  # screenshot image
+    ├── README.md                             # readme
+    ├── Screenshot_1.png                      # screenshot image
+    ├── Screenshot_2.png                      # screenshot image
 
 ## Getting Started
 
