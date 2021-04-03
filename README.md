@@ -6,6 +6,14 @@
 Mengimplementasikan User Interface pada Aplikasi Web Kalkulator Sederhana.
 (Pelatihan Online Bidang TIK Berbasis SKKNI Tahun 2021 Gelombang Ke-4 Pengembang Web Pratama (Junior Web Developer))
 
+## Folder Structure
+
+    .
+    ├── Tugas6_Maura Qoonitah Putri           # folder
+    │   ├── style.css                         # css file
+    │   ├── Tugas6_MauraQoonitahPutri.php     # main php file
+    │   └── README.md                         # readme
+
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
