@@ -4,66 +4,64 @@
 <a href="#tada-php-support" title="PHP Versions Supported"><img alt="PHP Versions Supported" src="https://img.shields.io/badge/php-5.3%20to%208.1-777bb3.svg?logo=php&logoColor=white&labelColor=555555"></a>
 
 Mengimplementasikan User Interface pada Aplikasi Web Kalkulator Sederhana.
+
 (Pelatihan Online Bidang TIK Berbasis SKKNI Tahun 2021 Gelombang Ke-4 Pengembang Web Pratama (Junior Web Developer))
 
 ## Folder Structure
 
     .
-    ├── Tugas6_Maura Qoonitah Putri           # folder
+    ├── Tugas6_Maura-Qoonitah-Putri           # folder
     │   ├── style.css                         # css file
-    │   ├── Tugas6_MauraQoonitahPutri.php     # main php file
+    │   ├── index.php                         # main php file
     │   └── README.md                         # readme
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
 ### Prerequisites
 
-What things you need to install the software and how to install them,
 Make sure you have installed all of the following prerequisites on your development machine:
 
-- PHP
-- Web Server (XAMPP)
+- PHP 7
+- Web Server (XAMPP for Windows/MAMP for macOS)
 - Web Browser (Chrome/Firefox/etc.)
-- Text Editor (Visual Studio Code)
+- Text Editor (Visual Studio Code/etc.)
+
+### Installation
+
+Examples how to get a development env running:
+
+1. Download zip / Clone the repo
 
 ```
-Give examples
+https://github.com/mauraqoonitah/simpleCalculator
 ```
 
-### Installing
-
-A step by step series of examples that tell you how to get a development env running
-
-Say what the step will be
-
-```
-Give the example
-```
-
-And repeat
+2. Put zip folder inside your htdocs folder
+3. Extract zip folder
+4. Open Text Editor VSCode
+5. Open the folder inside VSCode
+6. Open XAMPP Control Panel & Start Apache Module
+7. Open Web Browser & Visit link:
 
 ```
-until finished
+http://localhost/Tugas6_Maura-Qoonitah-Putri
 ```
-
-End with an example of getting some data out of the system or using it for a little demo
 
 ### Running Your Application
 
 Run your application using Web Server (XAMPP) and Web Browser (Chrome/Firefox/etc.)
 
-### Screenshot App
+### Usage
 
-here
+Input both numbers:
+<img src="https://github.com/mauraqoonitah/simpleCalculator/blob/master/Screenshot_1.png" width="800">
 
-## Built With
+Output:
+<img src="https://github.com/mauraqoonitah/simpleCalculator/blob/master/Screenshot_2.png" width="800">
 
-- [PHP](https://www.php.net/)
-- [Visual Studio Code](https://code.visualstudio.com/)
-
-## Authors
+## Contact
 
 - **Maura Qoonitah Putri** - _Initial work_ - [mauraqoonitah](https://github.com/mauraqoonitah)
 
